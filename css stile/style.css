@@ -1,0 +1,16 @@
+.my-style {
+    background-color: #b5b82e;
+    color: blue;
+    border: 3px dotted #000;
+}
+h1 {
+    color: #0dcee7;
+    border: 3px solid #000;
+
+}
+h2 {
+    color:#8DDFCB ;
+}
+p {
+    color: rgb(179, 96, 29);
+}
